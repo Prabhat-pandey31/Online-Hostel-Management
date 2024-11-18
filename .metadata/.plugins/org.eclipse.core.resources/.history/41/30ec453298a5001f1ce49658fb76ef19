@@ -1,0 +1,5 @@
+package com.hotel.user.config;
+
+public class SecurityConfig {
+
+}

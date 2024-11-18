@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GeneratedValue"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Column"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
+    <fullyQualifiedTypeName name="com.hotel.user.repository.controller.UserRepository"/>
+    <fullyQualifiedTypeName name="com.hotel.user.repository.UserRepository"/>
+    <fullyQualifiedTypeName name="com.hotel.user.services.UserService"/>
+    <fullyQualifiedTypeName name="com.hotel.user.entity.User"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.hotel.room.service.RoomService"/>
+    <fullyQualifiedTypeName name="com.hotel.room.repository.RoomRepository"/>
+    <fullyQualifiedTypeName name="com.hotel.room.entity.Room"/>
+    <fullyQualifiedTypeName name="com.hotel.booking.feign.RoomFeignClient"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.FeignClient"/>
+    <fullyQualifiedTypeName name="com.hotel.booking.services.BookingService"/>
+    <fullyQualifiedTypeName name="com.hotel.booking.repository.BookingRepository"/>
+    <fullyQualifiedTypeName name="com.hotel.booking.entities.Booking"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.EnableFeignClients"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.client.discovery.EnableDiscoveryClient"/>
+    <fullyQualifiedTypeName name="org.springframework.security.config.annotation.web.configuration.EnableWebSecurity"/>
+</qualifiedTypeNameHistroy>

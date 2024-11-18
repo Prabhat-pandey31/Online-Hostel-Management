@@ -1,0 +1,5 @@
+package com.hotel.user.repository.controller;
+
+public interface UserRepository {
+
+}
